@@ -1,4 +1,8 @@
-html, body {
+html{
+    background-color: aquamarine;
+}
+
+body {
     margin: 0;
     border: 0;
     font-size: 100%;
