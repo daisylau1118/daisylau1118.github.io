@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #000000;
     color: #ffffff;
   }
